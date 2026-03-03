@@ -92,7 +92,7 @@ app.get(
       }
     }
   )
-/*
+
    .get("/product", () => {
     return {
       id: 1,
@@ -107,7 +107,7 @@ app.get(
       data: response
     }
   })
-
+/*
 .post(
     "/login",
     ({ body }) => {
