@@ -35,7 +35,7 @@ app.get(
   }
 )
 
-/*
+
 app.get(
   "/products/:id",
   ({ params, query }) => {
@@ -56,7 +56,7 @@ app.get(
     })
   }
 )
-
+/*
 app.get(
     "/stats",
     () => {
