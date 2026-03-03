@@ -72,7 +72,7 @@ app.get(
       })
     }
   )
-/*
+
   .get(
     "/admin",
     () => {
@@ -92,7 +92,7 @@ app.get(
       }
     }
   )
-
+/*
    .get("/product", () => {
     return {
       id: 1,
