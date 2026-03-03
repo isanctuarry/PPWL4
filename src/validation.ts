@@ -56,7 +56,7 @@ app.get(
     })
   }
 )
-/*
+
 app.get(
     "/stats",
     () => {
@@ -72,7 +72,7 @@ app.get(
       })
     }
   )
-
+/*
   .get(
     "/admin",
     () => {
